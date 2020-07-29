@@ -5,11 +5,10 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 
-.titlu{
-
-    font-family: 'Roboto', sans-serif;
+.titlu {
     padding-top:26px;
     padding-bottom: 47px;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-style: normal;
     font-weight: normal;
@@ -18,8 +17,8 @@
     color: white;
     background-color: #3A72B5;
 }
-.container{
-  
+
+.container {
     padding:42px 55px 22px 55px;
     top:196px;
     left: calc(50% - 493px);
@@ -31,11 +30,13 @@
     line-height: 42px;
     background: #DBDBDB;
 }
+
 .card {
     border-radius: 8px;
     background-color: white;
     color: black;
 }
+
 .top, 
 .container,
 .card2,
@@ -45,11 +46,13 @@
 {
     position: absolute;
 }
+
 .card1,
 .card2{
     height: 238px;
     width: 419px;
 }
+
 .card1{
    padding-top: 98px;
    padding-left: 23px;
@@ -68,6 +71,7 @@
     padding-left: 23px;
     padding-top: 29px;
 }
+
 .altreilea-text-2{
     top:166px;
 }
